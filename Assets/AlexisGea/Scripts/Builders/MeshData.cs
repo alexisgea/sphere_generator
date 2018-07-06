@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+﻿// Original source: https://github.com/alexisgea/sphere_mesher and post: https://www.alexisgiard.com/icosahedron-sphere/
+
+using UnityEngine;
 
 namespace AlexisGea {
 	/// <summary>

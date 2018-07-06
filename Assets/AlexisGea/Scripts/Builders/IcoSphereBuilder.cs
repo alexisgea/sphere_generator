@@ -1,4 +1,6 @@
-﻿using System.Collections;
+﻿// Original source: https://github.com/alexisgea/sphere_mesher and post: https://www.alexisgiard.com/icosahedron-sphere/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;
