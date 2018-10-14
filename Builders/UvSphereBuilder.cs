@@ -15,7 +15,7 @@ namespace AlexisGea {
 		/// <param name="resolution">Number of latitude lines (vertices on the y axis).</param>
 		public static MeshData Generate(float radius, int resolution) {
 
-			int vSize = 2 * resolution;
+			int vSize = 4 * resolution; // to make it closer to what the other have
 			int uSize = vSize * 2;
 
 			Vector3[] vertices = new Vector3[(uSize + 1) * (vSize + 1)];
@@ -50,8 +50,6 @@ namespace AlexisGea {
 					triangles[ti + 5] = vi + uSize + 2;
 				}
 			}
-
-			Debug.Log("Uv Sphere generated: " + triangles.Length + " tris and " + vertices.Length + " verts.");
 
             return new MeshData(vertices, triangles, uv, normals, tangents);
         }
