@@ -17,6 +17,8 @@ On the inspector you can select which basic shape should be used as well as sett
 
 Hope you find this useful.
 
-Check the blog post I made about this for more details: https://www.alexisgiard.com/icosahedron-sphere/ && https://www.alexisgiard.com/icosahedron-sphere-remastered/
+Check the blog posts I made about this for more details:
+https://www.alexisgiard.com/icosahedron-sphere/
+https://www.alexisgiard.com/icosahedron-sphere-remastered/
 
 Source on https://github.com/alexisgea/sphere_generator

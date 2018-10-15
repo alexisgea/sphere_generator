@@ -1,4 +1,6 @@
-﻿using System.Collections;
+﻿// Original source: https://github.com/alexisgea/sphere_generator and post: https://www.alexisgiard.com/icosahedron-sphere-remastered/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
