@@ -9,7 +9,7 @@ Currently included base solids:
 - icosahedron
 - warped plane (uv)
 
--*the cube, icosahedron and plane are the best looking-
+*the cube, icosahedron and plane are the best looking*
 
 To use it, add this folder to your Assets folder of your unity project. Then just add the SphereGenerator.cs script to an empty gameobject and "poof!", magic happens!
 
