@@ -7,6 +7,9 @@ On the inspector you can select if you want an Icosahedron Sphere or a UV Sphere
 
 Hope you find this useful.
 
-Check the blog post I made about this for more details: https://www.alexisgiard.com/icosahedron-sphere/
+Check the blog post I made about this for more details:
+https://www.alexisgiard.com/icosahedron-sphere/
+https://www.alexisgiard.com/icosahedron-sphere-remastered/
 
-Source on https://github.com/alexisgea/sphere_mesher
+Source on https://github.com/alexisgea/sphere_generator
+
